@@ -1,0 +1,5 @@
+# Main programs
+*-main.c
+
+# Executables
+*.run
